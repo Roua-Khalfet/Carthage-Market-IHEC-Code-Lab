@@ -1,0 +1,16 @@
+# Core dependencies
+agno>=2.4.8
+anthropic>=0.79.0
+firecrawl-py>=4.14.0
+supabase>=2.27.3
+python-dotenv>=1.2.1
+
+# Web scraping dependencies
+newspaper4k>=0.9.4.1
+lxml-html-clean>=0.4.3
+beautifulsoup4>=4.9.3
+
+# Additional utilities
+requests>=2.26.0
+httpx[http2]>=0.26.0
+pydantic>=2.0

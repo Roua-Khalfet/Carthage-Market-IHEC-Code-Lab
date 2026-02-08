@@ -1,0 +1,501 @@
+{
+  "stocks": [
+    {
+      "name": "Societe Tunisienne de Reassurance",
+      "symbol": "TRE",
+      "rsi_14": 92.51,
+      "macd_level": 0.84,
+      "macd_signal": 0.69
+    },
+    {
+      "name": "City Cars SA",
+      "symbol": "CITY",
+      "rsi_14": 92.22,
+      "macd_level": 0.94,
+      "macd_signal": 0.55
+    },
+    {
+      "name": "Air Liquide Tunisie SA",
+      "symbol": "AL",
+      "rsi_14": 86.29,
+      "macd_level": 2.43,
+      "macd_signal": 1.55
+    },
+    {
+      "name": "Office Plast SA",
+      "symbol": "PLAST",
+      "rsi_14": 83.16,
+      "macd_level": 0.10,
+      "macd_signal": 0.04
+    },
+    {
+      "name": "Poulina Group Holding SA",
+      "symbol": "PGH",
+      "rsi_14": 82.52,
+      "macd_level": 0.64,
+      "macd_signal": 0.67
+    },
+    {
+      "name": "Societe Tunisienne des Marches de Gros SA",
+      "symbol": "MGR",
+      "rsi_14": 79.89,
+      "macd_level": 0.21,
+      "macd_signal": 0.13
+    },
+    {
+      "name": "Societe Tunisienne d'Automobiles SA",
+      "symbol": "STA",
+      "rsi_14": 79.33,
+      "macd_level": 6.06,
+      "macd_signal": 5.34
+    },
+    {
+      "name": "Compagnie Internationale de Leasing",
+      "symbol": "CIL",
+      "rsi_14": 78.82,
+      "macd_level": 1.04,
+      "macd_signal": 1.03
+    },
+    {
+      "name": "Assurances Maghrebia SA",
+      "symbol": "AMV",
+      "rsi_14": 78.74,
+      "macd_level": 0.25,
+      "macd_signal": 0.22
+    },
+    {
+      "name": "Ennakl",
+      "symbol": "NAKL",
+      "rsi_14": 78.72,
+      "macd_level": 0.35,
+      "macd_signal": 0.13
+    },
+    {
+      "name": "Societe Tunisienne de Verreries SA",
+      "symbol": "SOTUV",
+      "rsi_14": 77.57,
+      "macd_level": 0.32,
+      "macd_signal": 0.23
+    },
+    {
+      "name": "Automobile Reseau Tunisien et Services SA",
+      "symbol": "ARTES",
+      "rsi_14": 75.22,
+      "macd_level": 0.28,
+      "macd_signal": 0.22
+    },
+    {
+      "name": "Banque Internationale Arabe de Tunisie SA",
+      "symbol": "BIAT",
+      "rsi_14": 74.25,
+      "macd_level": 4.85,
+      "macd_signal": 4.82
+    },
+    {
+      "name": "Arab Tunisian Lease SA",
+      "symbol": "ATL",
+      "rsi_14": 73.80,
+      "macd_level": 0.43,
+      "macd_signal": 0.35
+    },
+    {
+      "name": "Tunisie Profiles Aluminium",
+      "symbol": "TPR",
+      "rsi_14": 72.79,
+      "macd_level": 0.59,
+      "macd_signal": 0.59
+    },
+    {
+      "name": "Tunisie Leasing & Factoring SA",
+      "symbol": "TLS",
+      "rsi_14": 71.88,
+      "macd_level": 2.22,
+      "macd_signal": 2.17
+    },
+    {
+      "name": "Attijari Leasing SA",
+      "symbol": "TJL",
+      "rsi_14": 70.09,
+      "macd_level": 0.41,
+      "macd_signal": 0.24
+    },
+    {
+      "name": "Union Internationale de Banques",
+      "symbol": "UIB",
+      "rsi_14": 69.99,
+      "macd_level": 0.42,
+      "macd_signal": 0.31
+    },
+    {
+      "name": "Delice Holding SA",
+      "symbol": "DH",
+      "rsi_14": 69.60,
+      "macd_level": 0.50,
+      "macd_signal": 0.45
+    },
+    {
+      "name": "Amen Bank",
+      "symbol": "AB",
+      "rsi_14": 69.51,
+      "macd_level": 1.75,
+      "macd_signal": 1.63
+    },
+    {
+      "name": "Banque de Tunisie SA",
+      "symbol": "BT",
+      "rsi_14": 67.89,
+      "macd_level": 0.17,
+      "macd_signal": 0.13
+    },
+    {
+      "name": "Societe de Transport des Hydrocarbures par Pipelines SA",
+      "symbol": "STPIL",
+      "rsi_14": 67.11,
+      "macd_level": 0.23,
+      "macd_signal": 0.21
+    },
+    {
+      "name": "Societe Tunisienne d'Entreprises de Telecommunications",
+      "symbol": "SOTET",
+      "rsi_14": 66.76,
+      "macd_level": 0.28,
+      "macd_signal": 0.26
+    },
+    {
+      "name": "Assurances Maghrebia SA",
+      "symbol": "ASSMA",
+      "rsi_14": 65.88,
+      "macd_level": 0.74,
+      "macd_signal": 0.83
+    },
+    {
+      "name": "Union Bancaire pour le Commerce et l'Industrie SA",
+      "symbol": "UBCI",
+      "rsi_14": 64.83,
+      "macd_level": 1.57,
+      "macd_signal": 1.57
+    },
+    {
+      "name": "Societe de Fabrication des Boissons de Tunisie SA",
+      "symbol": "SFBT",
+      "rsi_14": 64.41,
+      "macd_level": 0.26,
+      "macd_signal": 0.24
+    },
+    {
+      "name": "Carthage Cement",
+      "symbol": "CC",
+      "rsi_14": 62.75,
+      "macd_level": 0.02,
+      "macd_signal": 0.01
+    },
+    {
+      "name": "Sanimed SA",
+      "symbol": "SMD",
+      "rsi_14": 62.05,
+      "macd_level": 0.02,
+      "macd_signal": 0.00
+    },
+    {
+      "name": "Societe Tunisienne des Industries de Pneumatiques",
+      "symbol": "STIP",
+      "rsi_14": 61.53,
+      "macd_level": 0.29,
+      "macd_signal": 0.22
+    },
+    {
+      "name": "Sotipapier SA",
+      "symbol": "STPAP",
+      "rsi_14": 61.50,
+      "macd_level": -0.03,
+      "macd_signal": -0.05
+    },
+    {
+      "name": "ESSOUKNA Societe Anonyme",
+      "symbol": "SOKNA",
+      "rsi_14": 60.27,
+      "macd_level": 0.13,
+      "macd_signal": 0.15
+    },
+    {
+      "name": "Societe Immobiliere et de participations SA",
+      "symbol": "SIMPA",
+      "rsi_14": 58.43,
+      "macd_level": 0.31,
+      "macd_signal": 0.21
+    },
+    {
+      "name": "Banque Nationale Agricole",
+      "symbol": "BNA",
+      "rsi_14": 58.08,
+      "macd_level": 0.31,
+      "macd_signal": 0.29
+    },
+    {
+      "name": "Smart Tunisie",
+      "symbol": "SMART",
+      "rsi_14": 58.04,
+      "macd_level": 0.22,
+      "macd_signal": 0.19
+    },
+    {
+      "name": "Banque Attijari de Tunisie SA",
+      "symbol": "TJARI",
+      "rsi_14": 58.00,
+      "macd_level": 0.49,
+      "macd_signal": 0.59
+    },
+    {
+      "name": "Tawasol Group Holding SA",
+      "symbol": "TGH",
+      "rsi_14": 57.60,
+      "macd_level": 0.02,
+      "macd_signal": 0.02
+    },
+    {
+      "name": "Societe Immobiliere Tuniso-Seoudienne SA",
+      "symbol": "SITS",
+      "rsi_14": 57.53,
+      "macd_level": 0.03,
+      "macd_signal": 0.04
+    },
+    {
+      "name": "BH Assurance SA",
+      "symbol": "BHASS",
+      "rsi_14": 57.41,
+      "macd_level": 1.84,
+      "macd_signal": 2.52
+    },
+    {
+      "name": "Land'Or SA",
+      "symbol": "LNDOR",
+      "rsi_14": 56.77,
+      "macd_level": 0.25,
+      "macd_signal": 0.30
+    },
+    {
+      "name": "Best Lease",
+      "symbol": "BL",
+      "rsi_14": 56.55,
+      "macd_level": 0.01,
+      "macd_signal": 0.00
+    },
+    {
+      "name": "Banque de Tunisie & des Emirats d'Investissement BTE Act.",
+      "symbol": "BTE",
+      "rsi_14": 56.04,
+      "macd_level": 0.06,
+      "macd_signal": 0.03
+    },
+    {
+      "name": "Societe moderne de ceramique SA",
+      "symbol": "SOMOC",
+      "rsi_14": 54.84,
+      "macd_level": 0.05,
+      "macd_signal": 0.04
+    },
+    {
+      "name": "La Societe Nouvelle Maison de la Ville de Tunis-Monoprix SA",
+      "symbol": "MNP",
+      "rsi_14": 54.08,
+      "macd_level": -0.01,
+      "macd_signal": -0.02
+    },
+    {
+      "name": "Societe Magasin General SA",
+      "symbol": "MAG",
+      "rsi_14": 53.94,
+      "macd_level": 0.15,
+      "macd_signal": 0.18
+    },
+    {
+      "name": "One Tech Holding SA",
+      "symbol": "OTH",
+      "rsi_14": 52.87,
+      "macd_level": 0.07,
+      "macd_signal": 0.05
+    },
+    {
+      "name": "Compagnie d'Assurances & de Reassurances SA",
+      "symbol": "AST",
+      "rsi_14": 51.76,
+      "macd_level": 0.24,
+      "macd_signal": 0.19
+    },
+    {
+      "name": "Societe Industrielle d'Appareillage et de Materiels Electriques SA",
+      "symbol": "SIAME",
+      "rsi_14": 51.58,
+      "macd_level": 0.04,
+      "macd_signal": 0.04
+    },
+    {
+      "name": "Societe d'Articles Hygieniques SA",
+      "symbol": "SAH",
+      "rsi_14": 51.37,
+      "macd_level": 0.11,
+      "macd_signal": 0.16
+    },
+    {
+      "name": "Cellcom SA",
+      "symbol": "CELL",
+      "rsi_14": 51.16,
+      "macd_level": -0.05,
+      "macd_signal": -0.05
+    },
+    {
+      "name": "BH Bank",
+      "symbol": "BH",
+      "rsi_14": 50.95,
+      "macd_level": -0.03,
+      "macd_signal": -0.03
+    },
+    {
+      "name": "Manufacture de Panneaux Bois du Sud SA",
+      "symbol": "MPBS",
+      "rsi_14": 50.69,
+      "macd_level": 0.02,
+      "macd_signal": 0.01
+    },
+    {
+      "name": "L'Accumulateur Tunisien Assad",
+      "symbol": "ASSAD",
+      "rsi_14": 50.35,
+      "macd_level": 0.01,
+      "macd_signal": 0.02
+    },
+    {
+      "name": "BNA Assurances",
+      "symbol": "BNASS",
+      "rsi_14": 50.26,
+      "macd_level": -0.03,
+      "macd_signal": -0.03
+    },
+    {
+      "name": "Societe Tunisienne d'Assurances & de Reassurances",
+      "symbol": "STAR",
+      "rsi_14": 48.58,
+      "macd_level": 0.01,
+      "macd_signal": 0.34
+    },
+    {
+      "name": "Unite de Fabrication de Medicaments",
+      "symbol": "UMED",
+      "rsi_14": 47.33,
+      "macd_level": -0.05,
+      "macd_signal": 0.01
+    },
+    {
+      "name": "Societe Tunisienne du Sucre SA",
+      "symbol": "STS",
+      "rsi_14": 46.60,
+      "macd_level": -0.11,
+      "macd_signal": -0.15
+    },
+    {
+      "name": "Societe Atelier du Meuble Interieurs SA",
+      "symbol": "SAM",
+      "rsi_14": 44.26,
+      "macd_level": -0.10,
+      "macd_signal": -0.12
+    },
+    {
+      "name": "Universal Auto Distributors Holding SA",
+      "symbol": "UADH",
+      "rsi_14": 44.04,
+      "macd_level": -0.01,
+      "macd_signal": -0.01
+    },
+    {
+      "name": "Societe Tunisienne de l'Air SA",
+      "symbol": "TAIR",
+      "rsi_14": 42.41,
+      "macd_level": -0.00,
+      "macd_signal": -0.00
+    },
+    {
+      "name": "NEW BODY LINE",
+      "symbol": "NBL",
+      "rsi_14": 41.22,
+      "macd_level": -0.05,
+      "macd_signal": -0.04
+    },
+    {
+      "name": "BH Leasing SA",
+      "symbol": "BHL",
+      "rsi_14": 40.46,
+      "macd_level": -0.04,
+      "macd_signal": -0.03
+    },
+    {
+      "name": "Telnet Holding SA",
+      "symbol": "TLNET",
+      "rsi_14": 40.19,
+      "macd_level": -0.05,
+      "macd_signal": -0.03
+    },
+    {
+      "name": "Societe Tunisienne de Banque",
+      "symbol": "STB",
+      "rsi_14": 38.42,
+      "macd_level": -0.04,
+      "macd_signal": -0.05
+    },
+    {
+      "name": "Eurocycles SA",
+      "symbol": "ECYCL",
+      "rsi_14": 38.11,
+      "macd_level": -0.21,
+      "macd_signal": -0.19
+    },
+    {
+      "name": "Arab Tunisian Bank SA",
+      "symbol": "ATB",
+      "rsi_14": 37.27,
+      "macd_level": -0.02,
+      "macd_signal": -0.01
+    },
+    {
+      "name": "Les Ciments de Bizerte SA",
+      "symbol": "SCB",
+      "rsi_14": 37.25,
+      "macd_level": -0.01,
+      "macd_signal": 0.01
+    },
+    {
+      "name": "Industries Chimiques du Fluor",
+      "symbol": "ICF",
+      "rsi_14": 36.00,
+      "macd_level": -1.63,
+      "macd_signal": -1.49
+    },
+    {
+      "name": "Wifack International Bank SA",
+      "symbol": "WIFAK",
+      "rsi_14": 35.91,
+      "macd_level": -0.10,
+      "macd_signal": -0.10
+    },
+    {
+      "name": "Societe Chimique ALKIMIA SA",
+      "symbol": "ALKIM",
+      "rsi_14": 35.58,
+      "macd_level": -0.13,
+      "macd_signal": -0.12
+    },
+    {
+      "name": "Societe des Industries Pharmaceutiques de Tunisie SA",
+      "symbol": "SIPHA",
+      "rsi_14": 27.61,
+      "macd_level": -0.39,
+      "macd_signal": -0.36
+    },
+    {
+      "name": "Hannibal Lease SA",
+      "symbol": "HL",
+      "rsi_14": 24.84,
+      "macd_level": -0.05,
+      "macd_signal": -0.00
+    }
+  ]
+}

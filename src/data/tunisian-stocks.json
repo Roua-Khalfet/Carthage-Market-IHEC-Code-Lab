@@ -1,0 +1,390 @@
+{
+  "banks": [
+    {
+      "name": "AMEN BANK",
+      "ticker": "AMEN BANK"
+    },
+    {
+      "name": "ARAB TUNISIAN BANK",
+      "ticker": "ARAB TUNISIAN BANK"
+    },
+    {
+      "name": "ATTIJARI BANK",
+      "ticker": "ATTIJARI BANK"
+    },
+    {
+      "name": "BANQUE DE TUNISIE",
+      "ticker": "BANQUE DE TUNISIE"
+    },
+    {
+      "name": "BANQUE NATIONALE AGRICOLE",
+      "ticker": "BANQUE NATIONALE AGRICOLE"
+    },
+    {
+      "name": "BH BANK",
+      "ticker": "BH BANK"
+    },
+    {
+      "name": "BIAT",
+      "ticker": "BIAT"
+    },
+    {
+      "name": "STB BANK",
+      "ticker": "STB BANK"
+    },
+    {
+      "name": "UBCI",
+      "ticker": "UBCI"
+    },
+    {
+      "name": "UIB",
+      "ticker": "UIB"
+    },
+    {
+      "name": "WIFAK INT BANK",
+      "ticker": "WIFAK INT BANK"
+    }
+  ],
+  "leasing": [
+    {
+      "name": "ARAB TUNISIAN LEASE",
+      "ticker": "ARAB TUNISIAN LEASE"
+    },
+    {
+      "name": "ATTIJARI LEASING",
+      "ticker": "ATTIJARI LEASING"
+    },
+    {
+      "name": "BEST LEASE",
+      "ticker": "BEST LEASE"
+    },
+    {
+      "name": "BH LEASING",
+      "ticker": "BH LEASING"
+    },
+    {
+      "name": "HANNIBAL LEASE",
+      "ticker": "HANNIBAL LEASE"
+    },
+    {
+      "name": "TUNISIE LEASING & FACTORING",
+      "ticker": "TUNISIE LEASING & FACTORING"
+    }
+  ],
+  "insurance": [
+    {
+      "name": "ASSURANCES MAGHREBIA",
+      "ticker": "ASSURANCES MAGHREBIA"
+    },
+    {
+      "name": "ASTREE",
+      "ticker": "ASTREE"
+    },
+    {
+      "name": "BH ASSURANCE",
+      "ticker": "BH ASSURANCE"
+    },
+    {
+      "name": "BNA ASSURANCES",
+      "ticker": "BNA ASSURANCES"
+    },
+    {
+      "name": "MAGHREBIA VIE",
+      "ticker": "MAGHREBIA VIE"
+    },
+    {
+      "name": "TUNIS RE",
+      "ticker": "TUNIS RE"
+    }
+  ],
+  "automotive": [
+    {
+      "name": "CITY CARS",
+      "ticker": "CITY CARS"
+    },
+    {
+      "name": "ENNAKL AUTOMOBILES",
+      "ticker": "ENNAKL AUTOMOBILES"
+    },
+    {
+      "name": "EURO-CYCLES",
+      "ticker": "EURO-CYCLES"
+    }
+  ],
+  "food_and_beverage": [
+    {
+      "name": "CEREALIS",
+      "ticker": "CEREALIS"
+    },
+    {
+      "name": "DELICE HOLDING",
+      "ticker": "DELICE HOLDING"
+    },
+    {
+      "name": "LAND'OR",
+      "ticker": "LAND'OR"
+    },
+    {
+      "name": "SFBT",
+      "ticker": "SFBT"
+    }
+  ],
+  "retail_and_distribution": [
+    {
+      "name": "MAGASIN GENERAL",
+      "ticker": "MAGASIN GENERAL"
+    },
+    {
+      "name": "MONOPRIX",
+      "ticker": "MONOPRIX"
+    }
+  ],
+  "building_materials": [
+    {
+      "name": "CARTHAGE CEMENT",
+      "ticker": "CARTHAGE CEMENT"
+    },
+    {
+      "name": "CIMENTS DE BIZERTE",
+      "ticker": "CIMENTS DE BIZERTE"
+    },
+    {
+      "name": "MEUBLES INTERIEURS",
+      "ticker": "MEUBLES INTERIEURS"
+    },
+    {
+      "name": "OFFICE PLAST",
+      "ticker": "OFFICE PLAST"
+    },
+    {
+      "name": "SOMOCER",
+      "ticker": "SOMOCER"
+    }
+  ],
+  "chemicals_and_materials": [
+    {
+      "name": "AIR LIQUIDE TUNISIE",
+      "ticker": "AIR LIQUIDE TUNISIE"
+    },
+    {
+      "name": "SOCIETE CHIMIQUE ALKIMIA",
+      "ticker": "SOCIETE CHIMIQUE ALKIMIA"
+    },
+    {
+      "name": "SOTRAPIL",
+      "ticker": "SOTRAPIL"
+    }
+  ],
+  "technology_and_telecom": [
+    {
+      "name": "AETECH",
+      "ticker": "AETECH"
+    },
+    {
+      "name": "CELLCOM",
+      "ticker": "CELLCOM"
+    },
+    {
+      "name": "HEXABYTE",
+      "ticker": "HEXABYTE"
+    },
+    {
+      "name": "ONE TECH",
+      "ticker": "ONE TECH"
+    },
+    {
+      "name": "SERVICOM",
+      "ticker": "SERVICOM"
+    },
+    {
+      "name": "SMART TUNISIE",
+      "ticker": "SMART TUNISIE"
+    },
+    {
+      "name": "SOTETEL",
+      "ticker": "SOTETEL"
+    },
+    {
+      "name": "TAWASOL",
+      "ticker": "TAWASOL"
+    },
+    {
+      "name": "TELNET HOLDING",
+      "ticker": "TELNET HOLDING"
+    }
+  ],
+  "industrial_and_manufacturing": [
+    {
+      "name": "ADWYA",
+      "ticker": "ADWYA"
+    },
+    {
+      "name": "AMS",
+      "ticker": "AMS"
+    },
+    {
+      "name": "ARTES",
+      "ticker": "ARTES"
+    },
+    {
+      "name": "CIL",
+      "ticker": "CIL"
+    },
+    {
+      "name": "ELECTROSTAR",
+      "ticker": "ELECTROSTAR"
+    },
+    {
+      "name": "GIF FILTER",
+      "ticker": "GIF FILTER"
+    },
+    {
+      "name": "ICF",
+      "ticker": "ICF"
+    },
+    {
+      "name": "MIP",
+      "ticker": "MIP"
+    },
+    {
+      "name": "MPBS",
+      "ticker": "MPBS"
+    },
+    {
+      "name": "SAH",
+      "ticker": "SAH"
+    },
+    {
+      "name": "SITS",
+      "ticker": "SITS"
+    },
+    {
+      "name": "SOPAT",
+      "ticker": "SOPAT"
+    },
+    {
+      "name": "SOTEMAIL",
+      "ticker": "SOTEMAIL"
+    },
+    {
+      "name": "SOTIPAPIER",
+      "ticker": "SOTIPAPIER"
+    },
+    {
+      "name": "SOTUMAG",
+      "ticker": "SOTUMAG"
+    },
+    {
+      "name": "SOTUVER",
+      "ticker": "SOTUVER"
+    },
+    {
+      "name": "STA",
+      "ticker": "STA"
+    }
+  ],
+  "pharmaceuticals_and_healthcare": [
+    {
+      "name": "ELBENE",
+      "ticker": "ELBENE"
+    },
+    {
+      "name": "NEW BODY LINE",
+      "ticker": "NEW BODY LINE"
+    },
+    {
+      "name": "SANIMED",
+      "ticker": "SANIMED"
+    },
+    {
+      "name": "SIPHAT",
+      "ticker": "SIPHAT"
+    },
+    {
+      "name": "UNIMED",
+      "ticker": "UNIMED"
+    }
+  ],
+  "holding_and_investment": [
+    {
+      "name": "ASSAD",
+      "ticker": "ASSAD"
+    },
+    {
+      "name": "BTE (ADP)",
+      "ticker": "BTE (ADP)"
+    },
+    {
+      "name": "ESSOUKNA",
+      "ticker": "ESSOUKNA"
+    },
+    {
+      "name": "PLACEMENTS DE TUNISIE - SICAF",
+      "ticker": "PLACEMENTS DE TUNISIE - SICAF"
+    },
+    {
+      "name": "POULINA GROUP HOLDING",
+      "ticker": "POULINA GROUP HOLDING"
+    },
+    {
+      "name": "SIAME",
+      "ticker": "SIAME"
+    },
+    {
+      "name": "SIMPAR",
+      "ticker": "SIMPAR"
+    },
+    {
+      "name": "SPDIT - SICAF",
+      "ticker": "SPDIT - SICAF"
+    },
+    {
+      "name": "STAR",
+      "ticker": "STAR"
+    },
+    {
+      "name": "STEQ",
+      "ticker": "STEQ"
+    },
+    {
+      "name": "STIP",
+      "ticker": "STIP"
+    },
+    {
+      "name": "TPR",
+      "ticker": "TPR"
+    },
+    {
+      "name": "TUNINVEST - SICAR",
+      "ticker": "TUNINVEST - SICAR"
+    },
+    {
+      "name": "TUNISIE VALEURS",
+      "ticker": "TUNISIE VALEURS"
+    },
+    {
+      "name": "UADH",
+      "ticker": "UADH"
+    }
+  ],
+  "transport_and_aviation": [
+    {
+      "name": "SYPHAX AIRLINES",
+      "ticker": "SYPHAX AIRLINES"
+    },
+    {
+      "name": "TUNISAIR",
+      "ticker": "TUNISAIR"
+    }
+  ],
+  "indices": [
+    {
+      "name": "TUNINDEX",
+      "ticker": "TUNINDEX"
+    },
+    {
+      "name": "TUNISIAN BOND INDEX",
+      "ticker": "TUNISIAN BOND INDEX"
+    }
+  ]
+}

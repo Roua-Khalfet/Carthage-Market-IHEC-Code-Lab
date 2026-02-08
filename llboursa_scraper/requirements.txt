@@ -1,0 +1,6 @@
+browser-use
+playwright
+langchain-openai
+python-dotenv
+supabase
+anthropic
