@@ -36,7 +36,7 @@ export const useSentimentData = () => {
 /**
  * Hook pour récupérer les analyses de sentiment d'une valeur spécifique
  * 
- * @param stockSymbol - Symbole de la valeur (ex: "BNA", "STB")
+ * @param stockSymbol - Symbole de la valeur (ex: "BNA", "STB", "ATTIJARI BANK")
  * @returns Query object avec les données filtrées par symbole
  * 
  * @example
@@ -51,8 +51,8 @@ export const useSentimentByStock = (stockSymbol: string) => {
       const { data, error } = await supabase
         .from("sentiment_analyses")
         .select("*")
-        .eq("stock_symbol", stockSymbol)
-        .order("date", { ascending: true });
+        .contains("affected_stocks", [stockSymbol])
+        .order("analyzed_at", { ascending: false });
 
       if (error) {
         console.error(`Error fetching sentiment for ${stockSymbol}:`, error);
