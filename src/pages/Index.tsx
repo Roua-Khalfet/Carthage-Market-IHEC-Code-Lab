@@ -1,6 +1,6 @@
 import { useState, useMemo } from "react";
 import { motion } from "framer-motion";
-import { Loader2, BarChart3, Brain, Briefcase } from "lucide-react";
+import { Loader2, BarChart3, Brain, Briefcase, Wallet } from "lucide-react";
 import { useSentimentData } from "@/hooks/useSentimentData";
 import { useAuth } from "@/hooks/useAuth";
 import { Header } from "@/components/dashboard/Header";
@@ -64,14 +64,14 @@ const Index = () => {
     <div className="min-h-screen p-4 sm:p-6 lg:p-8 max-w-[1600px] mx-auto">
       <Header />
 
-      {/* Main Tabs: Simulation (investors only), Sentiment, Market Data */}
-      <Tabs defaultValue={role === "investisseur" ? "simulation" : "sentiment"} className="w-full">
+      {/* Main Tabs: Portfolio (investors only), Sentiment, Market Data */}
+      <Tabs defaultValue={role === "investisseur" ? "portfolio" : "sentiment"} className="w-full">
         <TabsList className="bg-secondary/50 mb-6">
-          {/* Simulation tab - only for investors */}
+          {/* Portfolio tab - only for investors */}
           {role === "investisseur" && (
-            <TabsTrigger value="simulation" className="text-sm gap-1.5">
-              <Briefcase className="w-4 h-4" />
-              Simulation
+            <TabsTrigger value="portfolio" className="text-sm gap-1.5">
+              <Wallet className="w-4 h-4" />
+              Mon Portefeuille
             </TabsTrigger>
           )}
           <TabsTrigger value="sentiment" className="text-sm gap-1.5">
@@ -84,9 +84,9 @@ const Index = () => {
           </TabsTrigger>
         </TabsList>
 
-        {/* ===== SIMULATION TAB ===== (only for investors) */}
+        {/* ===== PORTFOLIO TAB ===== (only for investors) */}
         {role === "investisseur" && (
-          <TabsContent value="simulation" className="mt-0">
+          <TabsContent value="portfolio" className="mt-0">
             <SimulationTab />
           </TabsContent>
         )}

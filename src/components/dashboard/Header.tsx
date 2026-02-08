@@ -53,6 +53,7 @@ export const Header = () => {
           <Badge variant="outline" className="text-xs gap-1">
             <User className="w-3 h-3" />
             {role === "investisseur" ? "Investisseur" : "Régulateur CMF"}
+            <span className="ml-1 opacity-50">({role})</span>
           </Badge>
         )}
         {riskProfile && (

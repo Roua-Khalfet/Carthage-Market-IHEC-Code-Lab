@@ -52,12 +52,15 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         .limit(1);
 
       if (roles && roles.length > 0) {
+        console.log("✅ Rôle chargé:", roles[0].role);
         setRole(roles[0].role as AppRole);
       } else {
+        console.log("⚠️ Aucun rôle trouvé dans user_roles, vérification des métadonnées...");
         // Role not found — try to provision from user metadata (post email-confirm)
         const { data: { user: currentUser } } = await supabase.auth.getUser();
         const meta = currentUser?.user_metadata;
         if (meta?.role) {
+          console.log("✅ Rôle trouvé dans métadonnées:", meta.role);
           // Insert profile
           if (meta.full_name) {
             await supabase.from("profiles").upsert({
@@ -73,9 +76,11 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
           if (!roleError) {
             setRole(meta.role as AppRole);
           } else {
+            console.error("❌ Erreur lors de l'insertion du rôle:", roleError);
             setRole(null);
           }
         } else {
+          console.error("❌ Aucun rôle trouvé dans les métadonnées utilisateur");
           setRole(null);
         }
       }
